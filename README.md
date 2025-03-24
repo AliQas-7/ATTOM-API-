@@ -38,6 +38,8 @@ npm install
 3. Create a `.env` file in the root directory and add your ATTOM API key:
 ```
 ATTOM_API_KEY=your_api_key_here
+PORT=5000
+DATABASE_URL=your_databse_url_of_postgres
 ```
 
 ## API Endpoints
