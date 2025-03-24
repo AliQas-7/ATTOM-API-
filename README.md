@@ -16,6 +16,12 @@ This project provides a Node.js API wrapper for the ATTOM Data Solutions API, of
 - npm or yarn
 - ATTOM API Key
 
+## .env Setup
+Set the env variables
+- PORT=5000
+- ATTOM_API_KEY=
+- DATABASE_URL=
+
 ## Installation
 
 1. Clone the repository:
